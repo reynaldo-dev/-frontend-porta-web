@@ -20,6 +20,7 @@ Nos permite gestionar toda su hoja de vida:
 * React Query
 
 # instalacion
-* git clone [https://github.com/2019MM607/parcial3_DPWA.git](https://github.com/2019MM607/parcial3_DPWA/tree/martinez)
+* git clone [
+* cd parcial_3_web_app
 * npm install
 * npm run dev
