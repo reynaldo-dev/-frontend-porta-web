@@ -18,6 +18,7 @@ Nos permite gestionar toda su hoja de vida:
 * Material UI
 * Axios
 * React Query
+* React router dom v6
 
 # instalacion
 * git clone https://github.com/reynaldo-dev/-frontend-porta-web.git
