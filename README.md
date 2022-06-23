@@ -20,7 +20,7 @@ Nos permite gestionar toda su hoja de vida:
 * React Query
 
 # instalacion
-* git clone [
+* git clone https://github.com/reynaldo-dev/-frontend-porta-web.git
 * cd parcial_3_web_app
 * npm install
 * npm run dev
